@@ -17,12 +17,12 @@ export default function Footer() {
             <div className="space-y-3">
               <p className="flex items-center gap-2 text-gray-400">
                 <Mail className="w-5 h-5" />
-                <a href="mailto:acm@kare.ac.in">acm@kare.ac.in</a>
+                <a href="mailto:kareacm@klu.ac.in">kareacm@klu.ac.in</a>
               </p>
-              <p className="flex items-center gap-2 text-gray-400">
+              {/* <p className="flex items-center gap-2 text-gray-400">
                 <Phone className="w-5 h-5" />
                 <a href="tel:+919876543210">+91 98765 43210</a>
-              </p>
+              </p> */}
               <p className="flex items-center gap-2 text-gray-400">
                 <MapPin className="w-5 h-5" />
                 KARE Campus, Krishnankoil
